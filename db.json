@@ -1,9 +1,9 @@
-{
-"post":[
+[
+
     {
         "id": 1,
         "nombre": "Documento del Admin",
-        "Tamaño": "15kb"
+        "Tamaño": "15kb",
         "imagen": "https://user-images.githubusercontent.com/67810669/149614724-0b3161bc-a042-426b-921c-3ca3311164e8.jpg"
 
     },
@@ -22,4 +22,4 @@
 
  ]
 
-}
+
