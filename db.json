@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Documento del Admin",
+        "Tamaño": "15kb"
+        "imagen": "https://user-images.githubusercontent.com/67810669/149614724-0b3161bc-a042-426b-921c-3ca3311164e8.jpg"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Documento del Usarios del Sistema",
+        "Tamaño": "20kb",
+        "imagen": "https://cdn-icons-png.flaticon.com/512/78/78948.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Dpcumento del usuario Basico",
+        "Tamaño": "25kb",
+        "imagen": "https://cdn-icons.flaticon.com/png/512/2201/premium/2201689.png?token=exp=1642234626~hmac=fd9a9d7393d3a7fd15feaf4b3bffc511"
+    }
+
+]
