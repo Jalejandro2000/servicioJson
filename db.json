@@ -4,20 +4,20 @@
     {
         "id": 1,
         "nombre": "Documento del Admin",
-        "Tamaño": "15kb",
+        "peso": "15kb",
         "archivo": "https://user-images.githubusercontent.com/67810669/149614724-0b3161bc-a042-426b-921c-3ca3311164e8.jpg"
 
     },
     {
         "id": 2,
         "nombre": "Documento de Usuario del Sistema",
-        "Tamaño": "20kb",
+        "peso": "20kb",
         "archivo": "https://user-images.githubusercontent.com/67810669/149707363-a32cd8c3-2d74-4c4d-bcd0-e01a946811a5.png"
     },
     {
         "id": 3,
         "nombre": "Dpcumento del usuario Basico",
-        "Tamaño": "25kb",
+        "peso": "25kb",
         "archivo": "https://user-images.githubusercontent.com/67810669/149707363-a32cd8c3-2d74-4c4d-bcd0-e01a946811a5.png"
     }
 
